@@ -6,4 +6,8 @@ It is a system that was a dream to do and so I did it. (Deal with it) <br />
 
 Versions: <br />
 V 1.0.0 - 3/8/2023 <br />
-V 2.0.0 - !!! COMING SOON !!!
+V 2.0.0 - !!! COMING SOON !!! <br />
+
+
+
+The Cali for pi will have more energy and money going tword it and not this

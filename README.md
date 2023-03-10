@@ -5,5 +5,5 @@ It is a system that was a dream to do and so I did it. (Deal with it) <br />
 !!! For the best results use the latest version available !!! <br />
 
 Versions: <br />
-- V 1.0.0 <br />
-= 3/8/2023 <br />
+V 1.0.0 - 3/8/2023 <br />
+V 2.0.0 - !!! COMING SOON !!!
